@@ -46,19 +46,19 @@ python -m pytest test_salon_booking.py
 
 ### Original script
 
-<img src="screenshots/before_fixing.png" alt="Original script run" width="900">
+<img src="screenshots/before-fixing.png" alt="Original script run" width="900">
 
 ### Tests on the original script
 
-<img src="screenshots/test_before.png" alt="Fuzz tests failing on the original script" width="900">
+<img src="screenshots/test-before.png" alt="Fuzz tests failing on the original script" width="900">
 
 ### Fixed script
 
-<img src="screenshots/after_fixing.png" alt="Fixed script run with valid and invalid input" width="900">
+<img src="screenshots/after-fixing.png" alt="Fixed script run with valid and invalid input" width="900">
 
 ### Tests on the fixed script
 
-<img src="screenshots/test_after.png" alt="Fuzz tests passing on the fixed script" width="900">
+<img src="screenshots/test-after.png" alt="Fuzz tests passing on the fixed script" width="900">
 
 ## Author
 
